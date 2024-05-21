@@ -1,5 +1,6 @@
 # app-dev
 My first repository
-Add info about yourself
-Add info about your hobbies
-Then introduce yourself
+
+# H1 My favorite series is kdrama series
+### H3 I like the romance and fantasy theme in kdrama, I love watching it especially when I'm feeling lonely and sad, it give me that magical vibes.
+
